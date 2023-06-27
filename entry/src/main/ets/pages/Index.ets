@@ -3,7 +3,7 @@ import router from '@ohos.router';
 @Entry
 @Component
 struct Index {
-  @State message: string = '欢迎登录'
+  @State message: string = '删除欢迎登录'
   build() {
   Row() {
     Column() {
